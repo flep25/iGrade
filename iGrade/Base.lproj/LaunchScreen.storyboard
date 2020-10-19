@@ -25,7 +25,7 @@
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Developed by College Central, SEIT - ICT" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wZ3-7O-Ijk">
-                                <rect key="frame" x="244.5" y="1094" width="525.5" height="36"/>
+                                <rect key="frame" x="147.5" y="1094" width="525.5" height="36"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -36,7 +36,7 @@
                         <constraints>
                             <constraint firstItem="EF2-b8-8x1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="8jj-Mz-RlX"/>
                             <constraint firstItem="EF2-b8-8x1" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="D46-OL-64C"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="wZ3-7O-Ijk" secondAttribute="trailing" constant="50" id="l43-Le-I9b"/>
+                            <constraint firstItem="wZ3-7O-Ijk" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="ZwK-8Y-wNl"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="wZ3-7O-Ijk" secondAttribute="bottom" constant="50" id="miu-vH-43z"/>
                         </constraints>
                     </view>
